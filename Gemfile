@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "varvet", github: "varvet/varvet", tag: "v1.4.7"
+gem "varvet", git: "https://github.com/varvet/varvet.git"
 gem "geminabox"
